@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de algoritmos y estructuras de datos implementados en **Java**, como parte de mi práctica continua para reforzar habilidades de resolución de problemas, lógica algorítmica y eficiencia computacional.
 
-
+![Ilustración de un algoritmo](Algoritmo.png)
 
 ## 📌 Objetivos
 
